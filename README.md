@@ -1,6 +1,6 @@
 - 👋 Hallo, ich bin Wolfiarmy
 - 🌱 Ich lerne momentan Pyhton
-- 📫 Ich bin erreichbar über Discord unter "Wolfiarmy#1978" oder per Email unter "Wolfiarmy@outlook.de"
+- 📫 Ich bin erreichbar über Discord unter "Wolfiarmy" oder per Email unter "Wolfiarmy@outlook.de"
 
 <!---
 Naikrt/Naikrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
